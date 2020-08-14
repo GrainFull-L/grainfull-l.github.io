@@ -19,8 +19,19 @@
 ]]></content>
   </entry>
   <entry>
+    <title>java</title>
+    <url>/gh-pages/2020/08/14/java/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>java</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>test</title>
     <url>/gh-pages/2020/08/12/test/</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
   </entry>
 </search>
